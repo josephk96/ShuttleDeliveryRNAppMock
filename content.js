@@ -1,1 +1,1 @@
-console.log("iwaga")
+console.log("lolnb")
