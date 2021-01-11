@@ -1,1 +1,1 @@
-console.log("vdduh")
+console.log("iwaga")
