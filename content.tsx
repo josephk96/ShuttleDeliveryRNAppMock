@@ -1,4 +1,4 @@
 console.log("xbbak")
 console.log("qkvvj")
 console.log("jhrmt")
-console.log("ttple")
+console.log("komek")
