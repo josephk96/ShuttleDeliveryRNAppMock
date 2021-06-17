@@ -3,5 +3,6 @@ public class Ciqqny {
         System.out.println("oiyxx");
         System.out.println("mrmrl");
         System.out.println("pwihw");
+        System.out.println("absgh");
     }
 }
