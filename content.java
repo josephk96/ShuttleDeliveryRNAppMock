@@ -5,6 +5,5 @@ public class Ciqqny {
         System.out.println("pwihw");
         System.out.println("absgh");
         System.out.println("apvym");
-        System.out.println("qlnmd");
     }
 }
