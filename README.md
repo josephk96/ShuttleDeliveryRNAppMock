@@ -1,4 +1,4 @@
-**This is a mock repository.** 
+**This is a mock repository that that imports contribution history from Shuttle Delivery's React Native application repo on BitBucket. All commits are my own commits that were analyzed by the Contributions Importer for GitHub tool by associating my work email address and transforming those same commits to be associated with my personal GitHub email address. No code is shown for privacy reasons. Unfortunately, the tool currently doesn't support importing exact commit messages as of yet.** 
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
 
